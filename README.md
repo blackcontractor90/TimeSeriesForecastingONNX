@@ -89,7 +89,7 @@ output/
 ---
 
 ## Author
-黒の契約者
+blackcontractor90
 
 ---
 
