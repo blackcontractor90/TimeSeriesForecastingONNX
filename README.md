@@ -1,6 +1,6 @@
 # Time-Series Forecasting Framework (JavaFX + ONNX)
 
-A modular, end-to-end time-series forecasting framework built in Java, featuring ONNX-based model inference, automated evaluation, and integrated visualization through a JavaFX desktop interface.
+A modular, end-to-end time-series forecasting framework built in Java, featuring ONNX-based model inference, automated evaluation, and integrated visualization through a JavaFX desktop interface. This is a work from the paper "MLP Sliding-Window Forecasting for Electricity Load Prediction: A Multi-Scale Evaluation using an ONNX-based Java Framework" (https://jaeds.uitm.edu.my/index.php/jaeds/article/view/164).
 
 ---
 
